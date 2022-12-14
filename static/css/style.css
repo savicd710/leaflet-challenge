@@ -8,3 +8,21 @@ body,
 html {
   height: 100%;
 }
+
+.legend {
+  background: white;
+  padding: 2px;
+  opacity: 0.9;
+  border-radius: 3px;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin: 0px 8px 0px 4px;
+}
+
+.legend p {
+  text-align: center;
+}
